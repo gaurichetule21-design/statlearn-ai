@@ -1,0 +1,6 @@
+{
+  "name": "StatLearn AI",
+  "description": "AI-powered Skill Intelligence & Personalized Learning Platform for India's Official Statistical Workforce (MoSPI, iGOT Karmayogi & NSSTA)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
